@@ -1,0 +1,7 @@
+node_modules
+env
+.env
+smoke_out.txt
+server_log.txt
+srv.err
+srv.out
